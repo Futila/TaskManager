@@ -9,3 +9,4 @@ C:\workspace\projects\rocketseat\csharp\desafios\TaskManager\TaskManager.Communi
 C:\workspace\projects\rocketseat\csharp\desafios\TaskManager\TaskManager.Communication\obj\Debug\net8.0\refint\TaskManager.Communication.dll
 C:\workspace\projects\rocketseat\csharp\desafios\TaskManager\TaskManager.Communication\obj\Debug\net8.0\TaskManager.Communication.pdb
 C:\workspace\projects\rocketseat\csharp\desafios\TaskManager\TaskManager.Communication\obj\Debug\net8.0\ref\TaskManager.Communication.dll
+C:\workspace\projects\rocketseat\csharp\desafios\TaskManager\TaskManager.Communication\obj\Debug\net8.0\TaskManager.Communication.sourcelink.json

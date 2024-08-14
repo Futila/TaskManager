@@ -13,3 +13,4 @@ C:\workspace\projects\rocketseat\csharp\desafios\TaskManager\TaskManager.Applica
 C:\workspace\projects\rocketseat\csharp\desafios\TaskManager\TaskManager.Application\obj\Debug\net8.0\refint\TaskManager.Application.dll
 C:\workspace\projects\rocketseat\csharp\desafios\TaskManager\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.pdb
 C:\workspace\projects\rocketseat\csharp\desafios\TaskManager\TaskManager.Application\obj\Debug\net8.0\ref\TaskManager.Application.dll
+C:\workspace\projects\rocketseat\csharp\desafios\TaskManager\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.sourcelink.json

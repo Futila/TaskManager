@@ -34,3 +34,4 @@ C:\workspace\projects\rocketseat\csharp\desafios\TaskManager\TaskManager.API\obj
 C:\workspace\projects\rocketseat\csharp\desafios\TaskManager\TaskManager.API\obj\Debug\net8.0\TaskManager.API.pdb
 C:\workspace\projects\rocketseat\csharp\desafios\TaskManager\TaskManager.API\obj\Debug\net8.0\TaskManager.API.genruntimeconfig.cache
 C:\workspace\projects\rocketseat\csharp\desafios\TaskManager\TaskManager.API\obj\Debug\net8.0\ref\TaskManager.API.dll
+C:\workspace\projects\rocketseat\csharp\desafios\TaskManager\TaskManager.API\obj\Debug\net8.0\TaskManager.API.sourcelink.json
