@@ -1,0 +1,15 @@
+C:\workspace\projects\rocketseat\csharp\desafios\TaskManager\TaskManager.Application\bin\Debug\net8.0\TaskManager.Application.deps.json
+C:\workspace\projects\rocketseat\csharp\desafios\TaskManager\TaskManager.Application\bin\Debug\net8.0\TaskManager.Application.dll
+C:\workspace\projects\rocketseat\csharp\desafios\TaskManager\TaskManager.Application\bin\Debug\net8.0\TaskManager.Application.pdb
+C:\workspace\projects\rocketseat\csharp\desafios\TaskManager\TaskManager.Application\bin\Debug\net8.0\TaskManager.Communication.dll
+C:\workspace\projects\rocketseat\csharp\desafios\TaskManager\TaskManager.Application\bin\Debug\net8.0\TaskManager.Communication.pdb
+C:\workspace\projects\rocketseat\csharp\desafios\TaskManager\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.csproj.AssemblyReference.cache
+C:\workspace\projects\rocketseat\csharp\desafios\TaskManager\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\projects\rocketseat\csharp\desafios\TaskManager\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.AssemblyInfoInputs.cache
+C:\workspace\projects\rocketseat\csharp\desafios\TaskManager\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.AssemblyInfo.cs
+C:\workspace\projects\rocketseat\csharp\desafios\TaskManager\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.csproj.CoreCompileInputs.cache
+C:\workspace\projects\rocketseat\csharp\desafios\TaskManager\TaskManager.Application\obj\Debug\net8.0\TaskMana.898BD9DB.Up2Date
+C:\workspace\projects\rocketseat\csharp\desafios\TaskManager\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.dll
+C:\workspace\projects\rocketseat\csharp\desafios\TaskManager\TaskManager.Application\obj\Debug\net8.0\refint\TaskManager.Application.dll
+C:\workspace\projects\rocketseat\csharp\desafios\TaskManager\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.pdb
+C:\workspace\projects\rocketseat\csharp\desafios\TaskManager\TaskManager.Application\obj\Debug\net8.0\ref\TaskManager.Application.dll
