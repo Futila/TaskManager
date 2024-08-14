@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using TaskManager.Application.UseCases.Task.Create;
 using TaskManager.Application.UseCases.Task.GetById;
+using TaskManager.Application.UseCases.Task.Update;
 using TaskManager.Communication.Entities;
 using TaskManager.Communication.Requests;
 using TaskManager.Communication.Responses;
@@ -47,7 +48,16 @@ public class TaskController : ControllerBase
     
         return Ok(response);
     }
+    [HttpPut]
+    [Route("{id}")]
+    [ProducesResponseType(StatusCodes.Status204NoContent)]
+    [ProducesResponseType(typeof(ResponseErrorsJson), StatusCodes.Status400BadRequest)]
+    public IActionResult Update(int id, RequestTaskJson request)
+    {
+        var updateTaskUseCase = new UpdateTaskUseCase();
+        updateTaskUseCase.Execute(id, Tasks, request);
 
-
+        return NoContent();
+    }
 
 }
