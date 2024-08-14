@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using TaskManager.Application.UseCases.Task.Create;
+using TaskManager.Application.UseCases.Task.GetById;
 using TaskManager.Communication.Entities;
 using TaskManager.Communication.Requests;
 using TaskManager.Communication.Responses;
@@ -32,6 +33,19 @@ public class TaskController : ControllerBase
     {
         return Ok(Tasks);
 
+    }
+
+    [HttpGet]
+    [Route("{id}")]
+    [ProducesResponseType(typeof(ResponseTaskJson), StatusCodes.Status200OK)]
+    [ProducesResponseType(typeof(ResponseErrorsJson), StatusCodes.Status400BadRequest)]
+    public IActionResult GetById(int id) 
+    { 
+        var getTaskByIdUseCase = new GetTaskByIdUseCase();
+
+        var response = getTaskByIdUseCase.Execute(id, Tasks);
+    
+        return Ok(response);
     }
 
 
